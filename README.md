@@ -1,1 +1,1 @@
-Easy-groceries
+dynamic-site
